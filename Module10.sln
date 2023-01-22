@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_10_4_4", "Task_10_4_4\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCalculator", "MiniCalculator\MiniCalculator.csproj", "{50325DE2-1E79-4765-8150-A6F6F5693CE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithDependencyInjection", "CalculatorWithDependencyInjection\CalculatorWithDependencyInjection.csproj", "{5C903C1A-21AB-4A8E-BBAC-D0BC86069242}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{50325DE2-1E79-4765-8150-A6F6F5693CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50325DE2-1E79-4765-8150-A6F6F5693CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50325DE2-1E79-4765-8150-A6F6F5693CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C903C1A-21AB-4A8E-BBAC-D0BC86069242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C903C1A-21AB-4A8E-BBAC-D0BC86069242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C903C1A-21AB-4A8E-BBAC-D0BC86069242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C903C1A-21AB-4A8E-BBAC-D0BC86069242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
